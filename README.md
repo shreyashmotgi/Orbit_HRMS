@@ -86,8 +86,3 @@ Go to `http://localhost:5173`, log in with the admin credentials you set in `.en
 | `VITE_API_URL` | Full URL of the deployed backend API, including `/api` (e.g. `https://your-backend.onrender.com/api`) |
 
 
-
-
-## License
-
-This project was built as a technical assignment and is provided as-is for demonstration purposes.
